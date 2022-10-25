@@ -1,0 +1,283 @@
+/* Normal desktop :1200px. (xl)*/
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+    .hero-space {
+        padding: 0 45px ;
+    }
+
+    .slider-text {
+        margin-top: 100px ;
+    }
+
+    .slider-img-3 img {
+        margin-left: -65px ;
+    }
+                          
+    .slider-img-3 img {
+        margin-top: -74px ;
+    }
+
+    .slider-img-2 img {
+        margin-top: 80px;
+    }
+
+    .slider-text-2 {
+        margin-top: 134px ;
+    }
+
+    .slider-text-3 {
+        margin-top: 40px ;
+    }
+    
+    .section-title {
+        margin-top: 114px ;
+    }
+
+
+
+}
+
+
+/* Normal desktop :992px. (lg)*/
+@media (min-width: 992px) and (max-width: 1200px) {
+    main{
+        overflow: hidden;
+    }
+    .main-manu ul li {
+        margin: 0px 10px ;
+    }
+
+    .acsess-img img {
+        margin-left: 0 ;
+    }
+
+    .testiomial-img img {
+        margin-left: 0 ;
+    }
+
+    .hero-space {
+        padding: 0 ;
+    }
+
+    .slider-height-2 {
+        min-height: 720px;
+        padding-top: 229px ;
+    }
+
+    .feture-image img {
+        margin-left: -171px ;
+        max-width: 135% ;
+        margin-top: 20px ;
+    }
+
+    .fetures-list-right-image img {
+        margin-left: -150px ;
+    }
+
+    .fea-content-list h2 {
+        font-size: 31px ;
+    }
+
+    .pricing-tab p {
+        font-size: 14px ;
+    }
+
+    .section-title {
+        margin-top: 208px ;
+    }
+
+    .team-list {
+        margin-bottom: 70px ;
+        margin-top: 70px ;
+        margin-left: 89px;
+    }
+
+    .fetures-list-left-image img {
+        max-width: 232% ;
+        margin-left: -135px ;
+    }
+
+    
+
+   
+
+
+}
+
+ 
+/* Tablet desktop :768px. (md)*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+    main{
+        overflow: hidden;
+    }
+
+    .header-transparent {
+        padding: 20px 0;
+    }
+
+    .slider-text {
+        margin-bottom: 25px;
+    }
+
+    .acsess-img img {
+        margin-left: 0 ;
+        max-width: 100%;
+    }
+
+    .testiomial-img img {
+        margin-left: 0 ;
+    }
+
+    .hero-space {
+        padding: 0 ;
+    }
+
+    .header-normal {
+        padding: 15px 0 ;
+    }
+
+    .feture-image img {
+        margin-left: 0px ;
+    }
+
+    .fetures-list-right-image img {
+        margin-left: 0px ;
+    }
+
+    .section-title {
+        margin-top: 208px ;
+    }
+
+    .fetures-list-left-image img {
+        max-width: 232%;
+        margin-left: -135px ;
+    }
+
+    .how-list-icon {
+        margin-left: 0 ;
+    }
+
+    .how-list-left img {
+        margin: 0;
+    }
+
+    .team-img img {
+        margin-top: 89px;
+    }
+
+    .fetures-list-right-3 img {
+        margin: 0;
+    }
+}
+
+ 
+/* small mobile :320px. (xs)*/
+@media (max-width: 767px) {
+
+    main{
+        overflow: hidden;
+    }
+
+    .header-transparent {
+        padding: 20px 0;
+    }
+
+    .slider-text {
+        margin-bottom: 25px;
+    }
+
+    .acsess-img img {
+        margin-left: 0 ;
+        max-width: 100%;
+    }
+
+    .testiomial-img img {
+        margin-left: 0;
+    } 
+
+    .slider-text h3 {
+        font-size: 35px ;
+    }
+
+    .slider-img img {
+        max-width: 100%;
+    }
+
+    .acsess-text h3 {
+        font-size: 32px ;
+    }
+
+    .section-title h2 {
+        font-size: 32px ;
+    }
+
+    .testiomial-img img {
+        margin-left: 0 ;
+        max-width: 100% ;
+    }
+    
+    .newsletter input {
+        height: 69px ;
+        width: 100% ;
+    }
+
+    .newsletter button {
+        height: 59px ;
+        padding: 0 39px ;
+        float: unset ;
+        margin-top: 18px;
+    }
+
+    .hero-space {
+        padding: 0 ;
+    }
+
+    .header-normal {
+        padding: 15px 0 ;
+    }
+
+    .feture-image img {
+        margin-left: 0px ;
+        max-width: 100% ;
+    }
+
+    .fetures-list-right-image img {
+        margin-left: 0px ;
+        max-width: 100% ;
+    }
+
+    .client-img img {
+        margin-left: 0 ;
+        max-width: 100% ;
+    }
+
+    .fea-content-list h2 {
+        font-size: 27px ;
+    }
+
+    .section-title-2 h2 {
+        font-size: 27px ;
+    }
+
+    .section-title {
+        margin-top: 208px ;
+    }
+
+    .fetures-list-left-image img {
+        max-width: 158% ;
+        margin-left: -135px ;  
+    }
+
+    .how-list-left img {
+        margin: 0;
+    }
+}
+
+
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
